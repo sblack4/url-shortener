@@ -1,0 +1,24 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "url shortener (or just aliaser) per freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sblack4/url-shortener.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "npm"
+  ],
+  "author": "Steven Black",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sblack4/url-shortener/issues"
+  },
+  "homepage": "https://github.com/sblack4/url-shortener#readme"
+}
