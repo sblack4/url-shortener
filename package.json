@@ -4,7 +4,8 @@
   "description": "url shortener (or just aliaser) per freeCodeCamp",
   "main": "index.js",
   "scripts": {
-    "test": "echo hello world"
+    "test": "echo $PWD",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/sblack4/url-shortener/issues"
   },
-  "homepage": "https://github.com/sblack4/url-shortener#readme"
+  "homepage": "https://github.com/sblack4/url-shortener#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
